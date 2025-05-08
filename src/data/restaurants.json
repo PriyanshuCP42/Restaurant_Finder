@@ -1,0 +1,84 @@
+[
+    {
+      "id": "1",
+      "name": "Murthal",
+      "location": "Delhi",
+      "cuisine": "North-Indian",
+      "price": "INR",
+      "image": "https://media.istockphoto.com/id/1279134709/photo/image-of-metal-tray-with-aloo-paratha-pile-topped-with-red-onion-rings-and-sprinkle-of.jpg?s=612x612&w=0&k=20&c=GRayLaSHVOuWZn63lV02NvLZ75y8ECE7Zw2-0Dk5H5U="
+    },
+    {
+      "id": "2",
+      "name": "Neelkanth",
+      "location": "Sonipat",
+      "cuisine": "North-Indian",
+      "price": "INR",
+      "image": "https://media.istockphoto.com/id/979914742/photo/chole-bhature-or-chick-pea-curry-and-fried-puri-served-in-terracotta-crockery-over-white.jpg?s=612x612&w=0&k=20&c=OLAw-ZleN1UVaa468OlPSAc6dkz2sjehxWevbvZQNew="
+    },
+    {
+      "id": "3",
+      "name": "Bunny Kitchen",
+      "location": "Sector 14",
+      "cuisine": "Italian",
+      "price": "INR",
+      "image": "https://static-content.owner.com/funnel/images/30d4d5b5-e3a0-4bc9-9642-72ad6d7482b4?v=7268334806&w=3840&q=80&auto=format"
+    },
+    {
+      "id": "4",
+      "name": "HashTag",
+      "location": "Atlas Road",
+      "cuisine": "Chinnese",
+      "price": "INR",
+      "image": "https://t3.ftcdn.net/jpg/02/59/50/16/360_F_259501658_nyuFx2fLAfFWb4xuwVy0YflQSHlRTUR6.jpg"
+    },
+
+    {
+      "id": "5",
+      "name": "Anna Dosa",
+      "location": "Delhi",
+      "cuisine": "South-Indian",
+      "price": "INR",
+      "image": "https://thumbs.dreamstime.com/b/south-indian-breakfast-idli-dosa-chutney-indian-breakfast-lentil-rice-pancake-also-known-as-dosa-dumplings-known-as-idli-158574513.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Haveli",
+      "location": "Delhi",
+      "cuisine": "Indian",
+      "price": "INR",
+      "image": "https://thumbs.dreamstime.com/b/indian-thali-food-organic-concept-dark-background-traditional-dishes-appetisers-indeed-cuisine-top-view-362849971.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Boons",
+      "location": "Agra",
+      "cuisine": "North-Indian",
+      "price": "INR",
+      "image": "https://media.istockphoto.com/id/1186759790/photo/paneer-tikka-at-skewers-in-black-bowl-at-dark-slate-background-paneer-tikka-is-an-indian.jpg?s=612x612&w=0&k=20&c=cITToqM1KEnrixXjoLhEciqP24SxdKtW3QXykq-W5OE="
+    },
+    {
+      "id": "8",
+      "name": "Bastian",
+      "location": "Mumbai",
+      "cuisine": "Japaneese",
+      "price": "INR",
+      "image": "https://int.japanesetaste.com/cdn/shop/articles/how-to-make-makizushi-sushi-rolls-japanese-taste.jpg?v=1707914944&width=5760"
+    },
+    {
+      "id": "9",
+      "name": "Bomb Burger",
+      "location": "Jabalpur",
+      "cuisine": "German",
+      "price": "INR",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIjC1NVwJOFG2sLY6pe3AUZedEVnggqOvpRA&s"
+    },
+    {
+      "id": "10",
+      "name": "Khanijo",
+      "location": "Kundli",
+      "cuisine": "Indian",
+      "price": "INR",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHS6PU5te-Yedq9PH7duYOLr2IT-QTUa8kQ&s"
+    }
+  ]
+  

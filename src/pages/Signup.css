@@ -1,0 +1,83 @@
+.signup-page {
+    height: 100vh;
+    background: url('/food-bg.jpg') no-repeat center center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .signup-box {
+    background: rgba(249, 249, 249, 0.9);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+  }
+  
+  .signup-box h2 {
+    color: #951923;
+    margin-bottom: 10px;
+    font-size: 28px;
+  }
+  
+  .signup-box p {
+    color: #555;
+    margin-bottom: 20px;
+  }
+  
+  .signup-box form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .signup-box label {
+    text-align: left;
+    font-weight: 500;
+  }
+  
+  .signup-box input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+  }
+  
+  .signup-box button {
+    padding: 12px;
+    background-color: #951923;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .signup-box button:hover {
+    background-color: #951923;
+  }
+  
+
+  .error-message {
+    color: #951923;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  .login-link {
+    margin-top: 15px;
+    font-size: 14px;
+  }
+  
+  .login-link a {
+    color: #951923;
+    text-decoration: none;
+  }
+  
+  .login-link a:hover {
+    text-decoration: underline;
+  }
+  

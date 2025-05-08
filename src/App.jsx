@@ -4,6 +4,10 @@ import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import Home from "./pages/Home";
 import PrivateRoute from "./routes/PrivateRoute";
+import Cuisines from "./pages/cuisines";
+import About from "./pages/about";
+import Restaurants from "./pages/restaurants";
+
 
 const App = () => {
   return (
@@ -16,11 +20,12 @@ const App = () => {
           element={
             <PrivateRoute>
               <Home />
-            </PrivateRoute>
-          }
-        />
-        {/* Optional: redirect root to login */}
+            </PrivateRoute>} />
         <Route path="/" element={<Login />} />
+        <Route path="/cuisines" element={<Cuisines/>}/>
+        <Route path="/about" element={<About/>}/>
+        <Route path="/restaurants" element={<Restaurants/>}/>
+
       </Routes>
     </Router>
   );
