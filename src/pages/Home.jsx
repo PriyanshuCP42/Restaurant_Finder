@@ -54,6 +54,7 @@ const Home = () => {
               <option>Italian</option>
               <option>Japanese</option>
               <option>Chinese</option>
+              <option>South</option>
             </select>
             <button>Find Restaurants</button>
           </div>
